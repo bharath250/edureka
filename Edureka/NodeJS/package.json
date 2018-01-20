@@ -1,0 +1,17 @@
+{
+  "name": "suryatest",
+  "version": "1.0.0",
+  "description": "suryatest",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "surya",
+    "demo",
+    "module1"
+  ],
+  "author": "bharath250@gmail.com",
+  "license": "ISC"
+}

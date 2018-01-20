@@ -1,0 +1,30 @@
+========================================================================================================================
+Assignment 1
+========================================================================================================================
+
+Create an simple Node.Js application to read user name  from client
+application(you can use PostMan) and send back greeting to client.
+    Send the username to server by queryString
+    Send the username to server by path params.
+
+Run the application
+    npm install
+    node index.js
+try from browser
+    http://localhost:9001/user/john
+    http://localhost:9001/?username=john
+========================================================================================================================
+Assignment 2
+========================================================================================================================
+Create simple nodejs module to call any third party rest call. and test the module using
+http://api.openweathermap.org/data/2.5/find?q=London this rest api five the wether details of London.
+
+ Run the application
+    npm install
+    node index.js
+try from browser
+try from browser
+    http://localhost:9001/
+
+=======================================================================================================================
+ 

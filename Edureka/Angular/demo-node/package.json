@@ -1,0 +1,25 @@
+{
+  "name": "demo-node",
+  "version": "1.0.0",
+  "description": "demo-node",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "edureka",
+  "license": "ISC",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "express": "^4.16.2",
+    "node-rest-client": "^3.1.0",
+    "os": "^0.1.1"
+  },
+  "devDependencies": {}
+}
